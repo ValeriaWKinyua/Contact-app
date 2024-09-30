@@ -25,6 +25,7 @@ const ContactList = (props) => {
         <h2
          //style={{ fontFamily: "castellar" }}
          >Contact List</h2>
+         <h2>These are the contacts</h2>
         <Link to="/add">
           <button className="ui button black right floated">Add Contact</button>
         </Link>
